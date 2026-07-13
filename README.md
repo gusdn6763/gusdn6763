@@ -1,7 +1,3 @@
-## Hi there 👋
-
-### 백엔드 개발자 장현우입니다
-
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
