@@ -1,6 +1,5 @@
 # JANG HYUN WOO 💻
 
-![Hyunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdn6763&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdn6763)](https://solved.ac/gusdn6763)
 
 # 💪 Skills
