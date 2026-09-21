@@ -29,4 +29,4 @@
 
 # 📫 Contacts
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://gusdn6763.github.io/assets/pdf/portfolio.pdf)](https://gusdn6763.github.io/assets/pdf/portfolio.pdf)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:본인이메일@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gusdn6763@gmail.com)
