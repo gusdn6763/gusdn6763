@@ -27,6 +27,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 📫 Contacts
+# 📫 Portfolio
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://gusdn6763.github.io/assets/pdf/portfolio.pdf)](https://gusdn6763.github.io/assets/pdf/portfolio.pdf)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gusdn6763@gmail.com) gusdn6763@gmail.com
